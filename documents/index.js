@@ -103,7 +103,7 @@ return `
                               Customer name: ${name}
                            </td>
                            <td>
-                              Receipt number: ${receiptID}
+                              Receipt number: ${name}
                            </td>
                         </tr>
                      </table>
